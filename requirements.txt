@@ -1,0 +1,4 @@
+ipython==8.15.0
+my_moodle==0.3.3
+pandas==2.0.3
+Requests==2.31.0
