@@ -30,7 +30,7 @@ A matrix is usually denoted by a capital letter. The elements of a matrix are us
 
 , the element in the first row and second column is denoted by a12, and so on.
 
-$A=\begin{bmatrix} a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \dots & a_{mn} \end{bmatrix}$
+$`A=\begin{bmatrix} a_{11} & a_{12} & \dots & a_{1n} \\ a_{21} & a_{22} & \dots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \dots & a_{mn} \end{bmatrix}`$
 or
 $A=\begin{bmatrix} a_{1, 1} & a_{1, 2} & \dots & a_{1, n} \\ a_{2, 1} & a_{2, 2} & \dots & a_{2, n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m, 1} & a_{m, 2} & \dots & a_{m, n} \end{bmatrix}$
 
