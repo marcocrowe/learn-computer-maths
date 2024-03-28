@@ -1,10 +1,18 @@
 {
 	"cSpell.words": [
+		"arange",
+		"axhline",
+		"axvline",
 		"bmatrix",
 		"Colab",
 		"Crowe",
 		"ipynb",
 		"linalg",
-		"marcocrowe"
+		"linewidth",
+		"marcocrowe",
+		"xlabel",
+		"xticks",
+		"ylabel",
+		"yticks"
 	]
 }
