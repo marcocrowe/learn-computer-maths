@@ -15,5 +15,11 @@ This repository is a contains notes and code for beginners Computer Mathematics 
 - [Set Theory](set-theory.md)
 - [Set Theory with Python](set-theory.ipynb)
 
+## Exam Papers
+
+| Year | College | Exam Paper                                                                                        | Solution                                                              |
+|------|---------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| 2023 | TUS     | [Computer Mathematics  (MATH06092)](exam-paper/exam-2023-computer-mathematics-math06092-paper.md) | [Solution](exam-2023-mathematical-methods-2-math06072-solution.ipynb) |
+
 ---
 Copyright &copy; 2024 Mark Crowe <https://github.com/marcocrowe>. All rights reserved.
