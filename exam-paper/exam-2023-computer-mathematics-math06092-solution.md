@@ -125,8 +125,7 @@ $215.75_{10} = 1101\ 0111.11_2$
 First the integer part:
 Procedure: Keep dividing by 2 until you reach zero. If the number divides with no remainder, put remainder 0. When finished, read the remainders from bottom to top.
 
-$
-2\underline{|215} \\
+$2\underline{|215} \\
 2\underline{|107} + 1 \\
 \ \ 2\underline{|53} + 1 \\
 \ \ 2\underline{|26} + 1 \\
