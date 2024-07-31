@@ -19,7 +19,7 @@ This repository is a contains notes and code for beginners Computer Mathematics 
 
 | Year | College | Exam Paper                                                                                        | Solution                                                              |
 |------|---------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 2023 | TUS     | [Computer Mathematics  (MATH06092)](exam-paper/exam-2023-computer-mathematics-math06092-paper.md) | [Solution](exam-2023-mathematical-methods-2-math06072-solution.ipynb) |
+| 2023 | TUS     | [Computer Mathematics  (MATH06092)](exam-paper/exam-2023-computer-mathematics-math06092-paper.md) | [Solution](exam-paper/exam-2023-computer-mathematics-math06092-solution.md) |
 
 ---
 Copyright &copy; 2024 Mark Crowe <https://github.com/marcocrowe>. All rights reserved.
