@@ -125,24 +125,24 @@ $215.75_{10} = 1101\ 0111.11_2$
 First the integer part:
 Procedure: Keep dividing by 2 until you reach zero. If the number divides with no remainder, put remainder 0. When finished, read the remainders from bottom to top.
 
-$2\underline{|215} \\
-2\underline{|107} + 1 \\
-\ \ 2\underline{|53} + 1 \\
-\ \ 2\underline{|26} + 1 \\
-\ \ 2\underline{|13} + 0 \\
-\ \ \ \ 2\underline{|6 } + 1 \\
-\ \ \ \ 2\underline{|3 } + 0 \\
-\ \ \ \ 2\underline{|1 } + 1 \\
-\ \ \ \ \ \ \ 0 + 1 \uparrow$
+$2\underline{|215}$  
+$2\underline{|107} + 1$  
+$\ \ 2\underline{|53} + 1$  
+$\ \ 2\underline{|26} + 1$  
+$\ \ 2\underline{|13} + 0$  
+$\ \ \ \ 2\underline{|6 } + 1$  
+$\ \ \ \ 2\underline{|3 } + 0$  
+$\ \ \ \ 2\underline{|1 } + 1$  
+$\ \ \ \ \ \ \ 0 + 1 \uparrow$
 
 Second the fractional part:
 
 $\begin{array}{r}
 0.75 \\
 \times \underline{2} \\
-\downarrow \bold{1}.50 \\
+\downarrow \textbf{1}.50 \\
 \times \underline{2} \\
-\bold{1}.00 \\
+\textbf{1}.00 \\
 \end{array} \\ \ \\
 0.75 = 0.11_2$
 
